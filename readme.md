@@ -1,6 +1,6 @@
 # Part-level Multi-labeling
 
-This is the implementation of the paper: Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning
+This is the implementation of the paper: Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning (CVPR 2024)
 ## Requirements
 Python 3.8.13\
 Pytorch 1.10.0\
